@@ -13,7 +13,7 @@ def amstrong(n):
         n=n//10
 
         if(sum==copy_n):
-            print(f"{copy_n} is an armstrong number")
+            print(f"{copy_n} is armstrong number")
             result={
                 "Number": nn,
                 "Armstrong": True,
